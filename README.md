@@ -1,6 +1,6 @@
 # Hi, I'm Sylvie 👋
 
-**Computer Science student at Tec de Monterrey ('28)** — Líderes del Mañana full-merit scholar, building software with social impact. I like projects where code meets the real world: logistics optimization, IoT, and community tools.
+**Computer Science student at Tec de Monterrey ('28)** — Líderes del Mañana scholar, building software with social impact.
 
 - 🔭 **Recently shipped:** [FeraMap](https://github.com/ayzaax/feramap) — a community TNR tracking app for stray cat colonies, built for #HackTheKitty 2026 🐈
 - 🌱 **Currently focused on:** data analysis (deeper into Pandas, scikit-learn & ML pipelines) and full-stack development
